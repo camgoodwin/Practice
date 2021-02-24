@@ -1,6 +1,6 @@
 # Practice
 
-### Introduction  <p align="center"> ![image](nb_logo.png) </>
+### Introduction  <p align="center"> ![image](nb_logo.png) </p>
 
 
 
