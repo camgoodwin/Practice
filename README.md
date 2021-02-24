@@ -1,5 +1,10 @@
 # Practice
 
+### Introduction  ![picture alt](nb_logo)
+
+I would have a sentence here that would continue and my get in the way of the image. 
+
+
 [Sample Example](http://www.google.fr/ "Interesting Title")
 
 * h_app: is the app folder created to contain the flask app and supporting templates
@@ -16,3 +21,5 @@
 
 [Baseball Database](http://www.seanlahman.com/baseball-archive/statistics/ "Sean Lahman's Baseball Database")
 
+
+:baseball: Team Names :baseball:
