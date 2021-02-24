@@ -1,6 +1,6 @@
 # Practice
 
-### Introduction  ![image](nb_logo.PNG)
+### Introduction  ![image](nb_logo.png)
 
 I would have a sentence here that would continue and my get in the way of the image. 
 
